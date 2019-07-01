@@ -13,6 +13,10 @@
 # Package Files #
 *.jar
 *.war
+
+/digishop4/target/
+/digishop4backend/target/
+
 *.nar
 *.ear
 *.zip
